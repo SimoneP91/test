@@ -5,7 +5,7 @@ create the tables provided in table.sql, and insert the values from the data.sql
 
 open Postman or Insomina and make an HTTP request to api.php via GET method with current parameters:
 
-idNode
+# idNode
 language
 search (optional)
 page_num (optional) 
