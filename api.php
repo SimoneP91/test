@@ -1,5 +1,6 @@
 <?php
 include 'config.php';
+include 'consts.php';
 
 
 if( $_SERVER['REQUEST_METHOD'] != 'GET' && $_SERVER['QUERY_STRING'] == "" ){
